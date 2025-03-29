@@ -1,8 +1,6 @@
 ## Hi there!  
-
 I'm **Isha**, an AI student 
 
-Feel free to check out my work!  
 # 💫 About Me:
 🔭 **I’m currently working on** machine learning projects and improving my Python and C++ skills.  <br>🌱 **I’m currently learning** data analysis, algorithms, and ethical hacking.  <br>🤝 **I’m looking to collaborate on** AI-related projects and innovative problem-solving.  <br>🙌 **I’m looking for help with** deep learning and cybersecurity concepts.  <br>  <br>⚡ **Fun fact:** I love reading books!
 
