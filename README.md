@@ -4,7 +4,7 @@
 </div>
 
 #  About Me:
-Hi there!  I'm Isha, a 4th-semester student pursuing a Bachelor's in Artificial Intelligence. I'm passionate about coding, problem-solving, and exploring new technologies. I'm currently focused on machine learning,
+Hi there!  I'm Isha, a 6th-semester student pursuing a Bachelor's in Artificial Intelligence. I'm passionate about coding, problem-solving, and exploring new technologies. I'm currently focused on machine learning,
 
 
 ## 🌐 Socials:
